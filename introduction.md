@@ -1,6 +1,5 @@
-# [Raghavendra Prasad M](https://github.com/Raghavendra199609/Raghavendra199609.github.io/new/main)
+# [Raghavendra Prasad M](https://raghavendra199609.github.io/)
 ### C Project
 ## Edducation
 - NIEIT
 - IITM
-![]()
