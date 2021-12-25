@@ -2,7 +2,7 @@
 ## Education
 ![](/assets/iitm.png)
 #### IITM 
--Bachelor of Science (BSc) in PROGRAMMING & DATA SCIENCE 
+-Bachelor of Science (BSc) in Programming & Data Science 
 
 ##### NIEIT
 -Bachelor of Engineering in Electronics and Communication Engineering
